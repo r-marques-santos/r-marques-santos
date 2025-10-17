@@ -5,7 +5,7 @@
 
 <div align="center">
 <br>
-🎓 Student of Systems Analysis and Development at Estácio University.
+🎓 Student of Systems Analysis and Development
 <br>
 💻 Currently exploring the world of programming and constantly learning to become a well-rounded developer.
 <br>
